@@ -1,0 +1,11 @@
+C:\Users\student\source\repos\PCODSurvey\obj\Debug\PCODSurvey.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\PCODSurvey\obj\Debug\PCODSurvey.Form1.resources
+C:\Users\student\source\repos\PCODSurvey\obj\Debug\PCODSurvey.Properties.Resources.resources
+C:\Users\student\source\repos\PCODSurvey\obj\Debug\PCODSurvey.csproj.GenerateResource.cache
+C:\Users\student\source\repos\PCODSurvey\obj\Debug\PCODSurvey.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\PCODSurvey\bin\Debug\PCODSurvey.exe.config
+C:\Users\student\source\repos\PCODSurvey\bin\Debug\PCODSurvey.exe
+C:\Users\student\source\repos\PCODSurvey\bin\Debug\PCODSurvey.pdb
+C:\Users\student\source\repos\PCODSurvey\obj\Debug\PCODSurvey.exe
+C:\Users\student\source\repos\PCODSurvey\obj\Debug\PCODSurvey.pdb
+C:\Users\student\source\repos\PCODSurvey\obj\Debug\PCODSurvey.ResultForm.resources
